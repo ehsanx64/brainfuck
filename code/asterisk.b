@@ -5,3 +5,7 @@
 
 # ASCII code for * is 42
 >++++++[<+++++++>-]<.
+
+# Print a newline
+[-]>++[<+++++>-]<.
+
