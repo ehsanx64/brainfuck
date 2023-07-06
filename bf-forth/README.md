@@ -1,5 +1,9 @@
 # bf-forth
 
+This directory is a lame copy of [this repository](https://github.com/w-k/bf-forth). 
+
+Following is the original README
+
 A Brainfuck interpreter in Forth.
 
 ## Usage
