@@ -1,4 +1,4 @@
-#! /usr/local/bin/gforth
+#! /usr/bin/env gforth
 
 43 Constant plus        \   +
 45 Constant minus       \   -
